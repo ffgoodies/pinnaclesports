@@ -6,10 +6,10 @@ Fantasy Football Goodies - Chrome only
 - See http://www.reddit.com/r/fantasyfootball/comments/2gbz5z/a_crash_course_in_vegas_odds_and_ff/
 
 
-To install, download the latest release at https://github.com/ffgoodies/pinnaclesports/archive/1.0.0.zip and follow these steps:
+Please follow these steps to install the extension:
 
-- unpack the zip file
-- open chrome, enter chrome://extensions as URL
-- enable "developer mode" (checkbox on the top right corner)
-- load the extension by selecting the unzipped folder
-- go to/refresh http://www.pinnaclesports.com/League/Football/NFL/1/Lines.aspx
+- open chrome
+- download https://github.com/ffgoodies/pinnaclesports/releases/download/1.0.0/ffgoodies-pinnaclesports.crx
+- enter chrome://extensions in the address bar
+- drag & drop the .crx file from your local downloads folder into the browser window
+- go to or refresh http://www.pinnaclesports.com/League/Football/NFL/1/Lines.aspx
