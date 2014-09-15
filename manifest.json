@@ -1,7 +1,7 @@
 {
   "manifest_version": 2,
   "name": "Fantasy Football Goodies",
-  "version": "0.8",
+  "version": "1.0.0",
 
   "description": "Extend pinnaclesports.com with odds as percentage, http://www.reddit.com/r/fantasyfootball/comments/2gbz5z/a_crash_course_in_vegas_odds_and_ff/",
 
