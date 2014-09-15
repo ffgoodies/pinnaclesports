@@ -1,0 +1,28 @@
+{
+  "manifest_version": 2,
+  "name": "Fantasy Football Goodies",
+  "version": "0.8",
+
+  "description": "Extend pinnaclesports.com with odds as percentage, http://www.reddit.com/r/fantasyfootball/comments/2gbz5z/a_crash_course_in_vegas_odds_and_ff/",
+
+  "permissions": [
+    "activeTab",
+    "http://www.pinnaclesports.com/",
+    "https://www.pinnaclesports.com/"
+  ],
+ 
+ "content_scripts": [
+    {
+      "matches": ["*://www.pinnaclesports.com/*type=league*", "*://www.pinnaclesports.com/League*"],
+      "js": ["app/script/jquery-2.1.1.min.js", "pinnaclesports/script/base.js", "pinnaclesports/script/nfl.js"]
+    },
+    {
+      "matches": ["*://www.pinnaclesports.com/*type=teamtotalsleague*", "http://www.pinnaclesports.com/TeamTotalsLeague/*"],
+      "js": ["app/script/jquery-2.1.1.min.js", "pinnaclesports/script/base.js", "pinnaclesports/script/nfl_team_totals.js"]
+    },
+    {
+      "matches": ["*://www.pinnaclesports.com/*contestgame*", "http://www.pinnaclesports.com/*ContestGame*"],
+      "js": ["app/script/jquery-2.1.1.min.js", "pinnaclesports/script/base.js", "pinnaclesports/script/contest_game.js"]
+    }
+  ]
+}
