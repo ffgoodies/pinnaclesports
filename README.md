@@ -6,7 +6,7 @@ Fantasy Football Goodies - Chrome only
 - See http://www.reddit.com/r/fantasyfootball/comments/2gbz5z/a_crash_course_in_vegas_odds_and_ff/
 
 
-To install, download the latest release at https://github.com/ffgoodies/pinnaclesports/archive/v1.0.0.zip and follow these steps:
+To install, download the latest release at https://github.com/ffgoodies/pinnaclesports/archive/1.0.0.zip and follow these steps:
 
 - unpack the zip file
 - open chrome, enter chrome://extensions as URL
