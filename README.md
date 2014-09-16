@@ -5,7 +5,9 @@ Fantasy Football Goodies - Chrome only
 - Calculations based on http://www.reddit.com/user/quickonthedrawl
 - For more background infos, please check out this post on reddit: http://www.reddit.com/r/fantasyfootball/comments/2gbz5z/a_crash_course_in_vegas_odds_and_ff/
 
+Check out [this post](http://www.reddit.com/r/fantasyfootball/comments/2ghlms/ive_created_a_chrome_extension_based_on_a_crash/) for additional information.
 
+## Setup
 Please follow these steps to install the extension:
 
 - open chrome
@@ -21,5 +23,3 @@ Please follow these steps to install the extension:
 
 **Team Total points**
 ![Screenshot 2](https://i.imgur.com/VoxBpvW.jpg "Team Total Points")
-
-Check out [this post](http://www.reddit.com/r/fantasyfootball/comments/2ghlms/ive_created_a_chrome_extension_based_on_a_crash/) for additional information.
