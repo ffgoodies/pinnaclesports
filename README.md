@@ -3,7 +3,7 @@ Fantasy Football Goodies - Chrome only
 
 - Add odds as percentage to pinnaclesports.com
 - Calculations based on http://www.reddit.com/user/quickonthedrawl
-- See http://www.reddit.com/r/fantasyfootball/comments/2gbz5z/a_crash_course_in_vegas_odds_and_ff/
+- For more background infos, please check out this post on reddit: http://www.reddit.com/r/fantasyfootball/comments/2gbz5z/a_crash_course_in_vegas_odds_and_ff/
 
 
 Please follow these steps to install the extension:
@@ -13,3 +13,5 @@ Please follow these steps to install the extension:
 - enter chrome://extensions in the address bar
 - drag & drop the .crx file from your local downloads folder into the browser window
 - go to or refresh http://www.pinnaclesports.com/League/Football/NFL/1/Lines.aspx
+
+Check out [this post](http://www.reddit.com/r/fantasyfootball/comments/2ghlms/ive_created_a_chrome_extension_based_on_a_crash/) for additional informations
