@@ -1,4 +1,4 @@
-Fantasy Football Goodies - Chrome only
+ffgoodies for pinnaclesports - Chrome only
 ========================
 
 - Add odds as percentage to pinnaclesports.com
