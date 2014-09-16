@@ -14,4 +14,12 @@ Please follow these steps to install the extension:
 - drag & drop the .crx file from your local downloads folder into the browser window
 - go to or refresh http://www.pinnaclesports.com/League/Football/NFL/1/Lines.aspx
 
-Check out [this post](http://www.reddit.com/r/fantasyfootball/comments/2ghlms/ive_created_a_chrome_extension_based_on_a_crash/) for additional informations
+## Screenshots
+**Line Spread**
+![Screenshot 1](https://i.imgur.com/eM1zadq.jpg "Line Spread")
+
+
+**Team Total points**
+![Screenshot 2](https://i.imgur.com/VoxBpvW.jpg "Team Total Points")
+
+Check out [this post](http://www.reddit.com/r/fantasyfootball/comments/2ghlms/ive_created_a_chrome_extension_based_on_a_crash/) for additional information.
