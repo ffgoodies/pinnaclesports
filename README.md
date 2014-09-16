@@ -1,7 +1,7 @@
 ffgoodies for pinnaclesports - Chrome only
 ========================
 
-- Add odds as percentage to pinnaclesports.com
+- Add odds as percentage to http://www.pinnaclesports.com
 - Calculations based on http://www.reddit.com/user/quickonthedrawl
 - For more background infos, please check out this post on reddit: http://www.reddit.com/r/fantasyfootball/comments/2gbz5z/a_crash_course_in_vegas_odds_and_ff/
 
